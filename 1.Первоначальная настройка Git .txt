@@ -1,0 +1,12 @@
+Чтобы посмотреть все установленные настройки и узнать где именно они заданы, используйте команду:
+$ git config --list --show-origin
+
+Настройка имени пользователя
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+Инициализайия репозитория
+git init
+
+Когда вы инициализируете репозиторий Git создаёт ветку с именем master, изменить на main
+$ git config --global init.defaultBranch main
