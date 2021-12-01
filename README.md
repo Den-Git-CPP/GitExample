@@ -7,9 +7,12 @@ https://git-scm.com/
 
 https://git-scm.com/book/ru/v2 
 
-Тренажер:
+Тренажеры и полезные ссылки:
 
 https://learngitbranching.js.org/?locale=ru_RU
+
+https://onlywei.github.io/explain-git-with-d3/#commit
+
 
 
 
